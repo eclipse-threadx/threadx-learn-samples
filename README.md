@@ -1,15 +1,4 @@
----
-page_type: sample
-languages:
-  - c
-  - asm
-name: 'Azure RTOS Microsoft Learning Samples'
-description: 'Sample projects for Azure RTOS Microsoft Learning courses how.'
-products:
-  - azure-rtos
----
-
-# Azure RTOS Microsoft Learning Samples
+# Eclipse ThreadX Learning Samples
 
 This repo contains sample projects for
 
@@ -37,12 +26,10 @@ Follow the [Set up environment](https://learn.microsoft.com/training/modules/int
 
 ### Use Visual Studio
 
-You can also find the sample projects that can be built and run with Visual Studio in the [release page](https://github.com/Azure-Samples/azure-rtos-learn-samples/releases/tag/vs). An alternative for using the sample projects. Follow the [get started](#get-started) section above or the readme file in the `.zip` to learn how to use it.
+You can also find the sample projects that can be built and run with Visual Studio in the [release page](https://github.com/eclipse-threadx/threadx-learn-samples/releases/tag/vs). An alternative for using the sample projects. Follow the [get started](#get-started) section above or the readme file in the `.zip` to learn how to use it.
 
 ## Resources
 
-- [Azure RTOS](https://aka.ms/rtos)
-- [Azure RTOS on GitHub](https://github.com/azure-rtos)
-- [PDF: Real-Time Embedded Multithreading Using ThreadX 4th Edition](https://github.com/Azure-Samples/azure-rtos-learn-samples/releases/download/book/Real-Time_Embedded_Multithreading_with_ThreadX_4th_Edition.pdf)
+- [Eclipse ThreadX on GitHub](https://github.com/eclipse-threadx)
+- [Eclipse ThreadX documentation](https://github.com/eclipse-threadx/rtos-docs/)
 
-For some common issues we found, please visit [Wiki](https://github.com/Azure-Samples/azure-rtos-learn-samples/wiki).

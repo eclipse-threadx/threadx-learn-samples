@@ -1,14 +1,3 @@
----
-page_type: sample
-languages:
-  - c
-  - asm
-name: 'Azure RTOS Microsoft Learning Samples'
-description: 'Sample projects for Azure RTOS Microsoft Learning courses how.'
-products:
-  - azure-rtos
----
-
 # Eclipse ThreadX Learning Samples
 
 This repo contains sample projects for

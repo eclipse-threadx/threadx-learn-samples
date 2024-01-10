@@ -3,7 +3,7 @@
 This repo contains sample projects for
 
 - [ThreadX learning path on Microsoft Learn](https://learn.microsoft.com/training/paths/azure-rtos-threadx/)
-- {NetX Duo learning path on Microsoft Learn](https://learn.microsoft.com/training/paths/azure-rtos-netx-duo/)
+- [NetX Duo learning path on Microsoft Learn](https://learn.microsoft.com/training/paths/azure-rtos-netx-duo/)
 
 ## Get started
 

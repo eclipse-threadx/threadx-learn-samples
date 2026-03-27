@@ -1,3 +1,5 @@
+# This repository has been archived. Look at SampleX instead.
+
 # Eclipse ThreadX Learning Samples
 
 This repo contains sample projects for ThreadX and NetX Duo. 
